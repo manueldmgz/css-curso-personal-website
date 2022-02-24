@@ -37,6 +37,10 @@ a:hover {
   text-decoration: none;
 }
 
+#btn-separacion{
+  margin-left:0.5rem;
+}
+
 h1 {
   font-size:4.5rem;
   line-height: 1.3;
@@ -194,5 +198,10 @@ footer {
   contact-list a {
     padding: 5px;
   }
+
+  .education {
+    background-image:none;
+    background-color:#d7ac1dff;
 }
 
+}
